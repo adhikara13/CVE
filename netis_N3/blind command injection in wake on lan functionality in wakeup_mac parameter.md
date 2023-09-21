@@ -1,4 +1,4 @@
-## Netis N3Mv2-V1.0.1.865 Router Blind Command Injection in Hostname Parameter in WAN Settings
+## Netis N3Mv2-V1.0.1.865 Router lind Command Injection in Wake-On-LAN Functionality in wakeup_mac Parameter
 
 ## Description
 
