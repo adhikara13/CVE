@@ -21,4 +21,4 @@ The vulnerability is rooted in the way the authorization header is processed. A 
 
 ## POC Video
 
-[![Watch the video](https://i9.ytimg.com/vi/5NHkUqSjvbY/mqdefault.jpg?sqp=CNTi1KgG-oaymwEmCMACELQB8quKqQMa8AEB-AHWBYAC4AOKAgwIABABGEMgUShyMA8=&rs=AOn4CLDoNIOvXWIqF6iUSjgM27uszBhQ3w)](https://youtu.be/5NHkUqSjvbY)
+[![Watch the video](https://img.youtube.com/vi/in0x_a2kz-U/maxresdefault.jpg)](https://youtu.be/5NHkUqSjvbY)
